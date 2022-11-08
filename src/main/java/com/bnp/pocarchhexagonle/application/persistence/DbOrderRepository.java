@@ -1,9 +1,9 @@
-package com.bnp.pocarchhexagonle.adaptater.persistence;
+package com.bnp.pocarchhexagonle.application.persistence;
 
 import com.bnp.pocarchhexagonle.domain.model.Customer;
 import com.bnp.pocarchhexagonle.domain.model.Order;
 import com.bnp.pocarchhexagonle.domain.port.persistance.OrderRepository;
-import com.bnp.pocarchhexagonle.jpa.repository.SpringDataOrderRepository;
+import com.bnp.pocarchhexagonle.infrastructure.repository.SpringDataOrderRepository;
 import com.bnp.pocarchhexagonle.shared.mapper.CustomerMapper;
 import com.bnp.pocarchhexagonle.shared.mapper.OrderMapper;
 import org.springframework.stereotype.Component;

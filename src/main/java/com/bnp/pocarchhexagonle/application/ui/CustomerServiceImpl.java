@@ -1,4 +1,4 @@
-package com.bnp.pocarchhexagonle.adaptater.ui;
+package com.bnp.pocarchhexagonle.application.ui;
 
 import com.bnp.pocarchhexagonle.domain.port.persistance.CustomerRepository;
 import com.bnp.pocarchhexagonle.domain.port.ui.CustomerService;

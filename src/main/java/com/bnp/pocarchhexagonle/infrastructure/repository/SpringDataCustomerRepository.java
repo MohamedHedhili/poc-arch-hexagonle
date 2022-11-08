@@ -1,6 +1,6 @@
-package com.bnp.pocarchhexagonle.jpa.repository;
+package com.bnp.pocarchhexagonle.infrastructure.repository;
 
-import com.bnp.pocarchhexagonle.jpa.entities.CustomerEntity;
+import com.bnp.pocarchhexagonle.infrastructure.entities.CustomerEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

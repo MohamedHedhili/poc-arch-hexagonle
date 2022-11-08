@@ -1,4 +1,4 @@
-package com.bnp.pocarchhexagonle.jpa.entities;
+package com.bnp.pocarchhexagonle.infrastructure.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

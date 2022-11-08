@@ -1,7 +1,7 @@
 package com.bnp.pocarchhexagonle.shared.mapper;
 
 import com.bnp.pocarchhexagonle.domain.model.Customer;
-import com.bnp.pocarchhexagonle.jpa.entities.CustomerEntity;
+import com.bnp.pocarchhexagonle.infrastructure.entities.CustomerEntity;
 import com.bnp.pocarchhexagonle.shared.dto.CustomerDto;
 import org.mapstruct.Mapper;
 

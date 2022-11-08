@@ -1,7 +1,7 @@
 package com.bnp.pocarchhexagonle.shared.mapper;
 
 import com.bnp.pocarchhexagonle.domain.model.Order;
-import com.bnp.pocarchhexagonle.jpa.entities.OrderEntity;
+import com.bnp.pocarchhexagonle.infrastructure.entities.OrderEntity;
 import com.bnp.pocarchhexagonle.shared.dto.OrderDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
